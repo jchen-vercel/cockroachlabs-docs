@@ -7,6 +7,8 @@ docs_area: reference.sql
 
 The `ALTER INDEX` [statement](sql-statements.html) changes the definition of an index. For information on using `ALTER INDEX`, see the pages for its [subcommands](#subcommands).
 
+TEST CHANGE 123
+
 {% include {{ page.version.version }}/misc/schema-change-stmt-note.md %}
 
 ## Subcommands
