@@ -5,6 +5,8 @@ toc: true
 docs_area: reference.sql
 ---
 
+TEST with "rm -rf vendor && bundle install && npm install" install command
+
 The `ALTER INDEX` [statement](sql-statements.html) changes the definition of an index. For information on using `ALTER INDEX`, see the pages for its [subcommands](#subcommands).
 
 {% include {{ page.version.version }}/misc/schema-change-stmt-note.md %}
