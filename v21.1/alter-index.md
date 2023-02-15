@@ -4,6 +4,8 @@ summary: Use the ALTER INDEX statement to change an existing index.
 toc: true
 ---
 
+TEST PR with ls -l build && ./build/build-vercel.sh
+
 The `ALTER INDEX` [statement](sql-statements.html) applies a schema change to an index. For information on using `ALTER INDEX`, see the pages for its relevant [subcommands](#subcommands).
 
 {% include {{{ page.version.version }}/misc/schema-change-stmt-note.md %}
